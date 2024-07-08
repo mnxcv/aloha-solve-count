@@ -1,0 +1,20 @@
+problems = {
+    "easy":
+    {
+        "basic":[
+            1000
+        ],
+        "intermediate":[
+            1001
+        ]
+    },
+    "hard":
+    {
+        "basic":[
+            1002
+        ],
+        "intermediate":[
+            1003
+        ]
+    }
+}
